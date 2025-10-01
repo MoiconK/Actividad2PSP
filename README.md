@@ -1,7 +1,7 @@
 ### Actividad 2 PSP Manual de uso
 ## Moisés Ortiz
 
-En este pequeño manual se explicará el funcionamiento de cada aplicación con ejemplos gráficos, primero la aplicación **leerTexto** la cuál lee un archivo a través de una dirección establecida y lo devuelve:
+En este pequeño manual se explicará el funcionamiento de cada aplicación con ejemplos gráficos, primero la aplicación **leerTexto** la cuál lee un archivo a través de una dirección establecida y lo devuelve **AVISO, LA APLICACIÓN leerTextoo USA UNA RUTA ABSOLUTA, RECUERDA CAMBIAR EL CÓDIGO A TU PROPIA RUTA**:
 <p align="center">
 <img width="683" height="447" alt="imagen" src="https://github.com/user-attachments/assets/676c2758-def6-4548-834c-bc62fea87d99" />
 </p>  
