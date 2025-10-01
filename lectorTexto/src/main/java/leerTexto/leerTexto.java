@@ -11,7 +11,7 @@ public class leerTexto {
         BufferedWriter bw;
 
         try {
-            archivoleer = new File("C:/Users/moiof/Documents/IntelliJProjects/entrada.txt");
+            archivoleer = new File("entrada.txt");
             fr = new FileReader(archivoleer);
             br = new BufferedReader(fr);
             osw = new OutputStreamWriter(System.out);
