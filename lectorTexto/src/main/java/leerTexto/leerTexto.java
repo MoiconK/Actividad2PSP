@@ -11,7 +11,7 @@ public class leerTexto {
         BufferedWriter bw;
 
         try {
-            archivoleer = new File("entrada.txt");
+            archivoleer = new File("C:/Users/moiof/Documents/IntelliJProjects/Actividad2PSP/entrada.txt");
             fr = new FileReader(archivoleer);
             br = new BufferedReader(fr);
             osw = new OutputStreamWriter(System.out);
